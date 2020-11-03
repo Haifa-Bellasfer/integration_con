@@ -1,7 +1,0 @@
-2020-11-01 22:59:45 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.retrieveAllEntreprises(EntrepriseServiceImpl.java:108):108 - entreprise +++ : tn.esprit.spring.entities.Entreprise@fbbd90c
-2020-11-01 22:59:45 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.retrieveAllEntreprises(EntrepriseServiceImpl.java:108):108 - entreprise +++ : tn.esprit.spring.entities.Entreprise@21c34bf8
-2020-11-01 22:59:45 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.retrieveAllEntreprises(EntrepriseServiceImpl.java:110):110 - Out of retrieveAllEntreprises.
-2020-11-01 22:59:45 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterEntreprise(EntrepriseServiceImpl.java:29):29 - In ajouterEntreprise(tn.esprit.spring.entities.Entreprise@5e6522a6)
-2020-11-01 22:59:45 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterEntreprise(EntrepriseServiceImpl.java:32):32 - ajouterEntreprise() : 7
-2020-11-01 22:59:45 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterDepartement(EntrepriseServiceImpl.java:41):41 - In ajouterDepartement(tn.esprit.spring.entities.Departement@54d60fa1)
-2020-11-01 22:59:45 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterDepartement(EntrepriseServiceImpl.java:44):44 - ajouterEntreprise() : 6
